@@ -1,0 +1,6 @@
+{
+  "id": "fly",
+  "name": "Flight mode",
+  "main-class": "mp.evolution.scripts.fly.Fly",
+  "authors": ["Radviger"]
+}
