@@ -6,7 +6,7 @@ import mp.evolution.game.controls.Control;
 import mp.evolution.game.controls.ControlGroup;
 import mp.evolution.game.controls.Controls;
 import mp.evolution.game.entity.ped.Ped;
-import mp.evolution.game.math.Vector3;
+import mp.evolution.math.Vector3;
 import mp.evolution.script.Script;
 import mp.evolution.script.event.ScriptEvent;
 import mp.evolution.script.event.ScriptEventKeyboardKey;
